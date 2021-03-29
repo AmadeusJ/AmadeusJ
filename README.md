@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## Frameworks
 
   <div>
-    <img src="https://img.shields.io/badge/-django-09E20?&logo=django&logoColor=white&style=fot-the-badge />
+    <img src="https://img.shields.io/badge/-django-09E20?&logo=django&logoColor=white&style=for-the-badge />
     <img src="https://img.shields.io/badge/-vue-184D66?&style=for-the-badge&logo=vue&logoColor=%4FC08D" />
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <div/>
