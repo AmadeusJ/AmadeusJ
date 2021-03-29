@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   <div>
     <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-vue-4FC08D?&style=for-the-badge&logo=vue&logoColor=white" />
+    <img src="https://img.shields.io/badge/-vue-4FC08D?&style=for-the-badge&logo=vue.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />                                                                    
   <div/>
   
